@@ -1,0 +1,13 @@
+{
+  "name": "terminal-app",
+  "version": "1.0.0",
+  "description": "Phase 1 (v2) - Browser terminal, backend serves frontend from one URL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "node-pty": "^1.0.0"
+  }
+}
